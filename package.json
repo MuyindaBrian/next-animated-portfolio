@@ -1,5 +1,5 @@
 {
-  "name": "lama-dev-portfolio-starter",
+  "name": "muyinda-brian-portfolio-starter",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
     "framer-motion": "^11.0.3",
-    "next": "14.1.0",
+    "next": "^14.2.20",
     "react": "18",
     "react-dom": "18"
   },
