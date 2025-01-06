@@ -234,10 +234,10 @@ const AboutPage = () => {
                     Full Stack Developer
                   </div>
                   {/* JOB DESC */}
-                  <div className="p-3 text-sm italic">
-                  As a Freelance Front-End Developer, I specialize in building responsive, user-friendly, and visually appealing web interfaces using frameworks like React, Next.js and React Native.{" "}
+                  <div className="p-3 text-sm italic pb-4">
+                  As a Freelance Front-End Developer, I specialize in building responsive, user-friendly, and visually appealing web interfaces using frameworks like Next.js and React Native.
                   </div>
-                  {/* JOB DATE */}
+                  {/* JOB DATE */} 
                   <div className="p-3 text-red-400 text-sm font-semibold">
                     2024 - Present
                   </div>
@@ -277,7 +277,7 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                    I developed dynamic and responsive websites using HTML, CSS and Javascript{" "}
+                    Developed dynamic and responsive websites using HTML, CSS and Javascript{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
@@ -294,7 +294,7 @@ const AboutPage = () => {
                 {/* LEFT */}
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
-                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
+                  <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg m-10">
                     Web Designer{" "}
                   </div>
                   {/* JOB DESC */}
